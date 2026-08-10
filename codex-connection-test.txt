@@ -1,0 +1,3 @@
+Codex connection test
+Created: 2026-08-10 (Asia/Tokyo)
+Purpose: verify file creation, commit, push, and GitHub Pages delivery.
